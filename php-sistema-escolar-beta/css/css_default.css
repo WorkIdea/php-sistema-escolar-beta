@@ -1,0 +1,22 @@
+/*************************************************************************************************/
+*{	
+	font-family: Arial;
+	font-size: 17px;   
+	margin: 5px 5px 5px 5px;
+}
+body {
+	/*background:url("../img/img_fondo3.jpg") no-repeat center center fixed;*/
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+#BSubmit{
+	font-weight:bold;
+	color:black;
+	background: #FFFFFF;
+}
+#link{
+	color: #000000;
+}
+/*************************************************************************************************/

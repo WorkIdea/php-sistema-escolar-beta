@@ -1,0 +1,49 @@
+/*************************************************************************************************/
+.DivGeneral{
+	width: 200px;/*ANCHO*/
+	height: auto;/*ALTO*/
+	position: absolute;
+	text-align: center;
+	left: 53%;
+	top: 50%;
+	margin: -11% 0px 0px -10%;	
+}
+.DivLogo{
+	text-align: center;
+}
+.DivPanel{    
+    color: #FFFFFF;       
+}
+#B1,#B2,#B3,#B4,#B5,#B6{ 
+	font-size: 16px;
+    background-color: #325E82;
+    color: #FFFFFF;
+    border-radius: 5px;    
+    border: solid 2px #000;
+    text-decoration: none; 
+}
+#B1:hover,#B2:hover,#B3:hover,#B4:hover,#B5:hover,#B6:hover{
+	background-color: #FFFFFF;	
+	color: #000000;
+	border: solid 2px #2F4F4F;
+}
+#B1{
+	padding: 0px 80px 0px 0px;
+}
+#B2{
+	padding: 0px 55px 0px 0px;
+}
+#B3{
+	padding: 0px 57px 0px 0px;
+}
+#B4{
+	padding: 0px 5px 0px 0px;
+}
+#B5{
+	padding: 0px 33px 0px 0px;
+}
+.DivLogo .Logo{
+	width: 75%;
+ 	height: 50%;
+}
+/*************************************************************************************************/

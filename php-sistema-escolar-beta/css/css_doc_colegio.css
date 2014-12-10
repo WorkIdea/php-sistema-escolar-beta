@@ -1,0 +1,130 @@
+/*************************************************************************************************/
+*{	
+	font-size: 12px;   
+}
+.DivGeneral{
+	width: auto;/*ANCHO*/
+    height: auto;/*ALTO*/ 
+    position: absolute;
+	text-align: center;
+    left: 25%;
+    top: 25%;
+    margin: -11% 0px 0px -10%;
+}
+.DivTitulo{
+	border: 2px solid #000;
+	/*background-color: #325E82;*/
+	height: auto;	
+}
+.DivPanelData{		
+	border: 2px solid #000;
+	/*background-color: #325E82;*/
+	height: auto;
+	text-align: left;
+}
+a{
+	color: #FFFFFF;
+}
+#linkAtras,#linkAgrega{
+	color: #000000;
+}
+/*#linkAtras:hover,#linkAgrega:hover{
+	color: #FFF;
+}*/
+#linkAtras{
+	/*float: left;	*/
+	background-image: url('../img/16x16/arrow_left.png');
+	background-repeat: no-repeat;
+	padding: 0px 0px 0px 20px;
+}
+#linkAgrega{
+	float: right;	
+	background-image: url('../img/16x16/user_add.png');
+	background-repeat: no-repeat;
+	padding: 0px 0px 0px 20px;
+}
+table{
+	
+}
+table,th, td{
+	border-collapse:collapse;
+	border: 2px solid black;
+	width: auto;
+}
+table tr:hover {
+  background: #FFF;
+}
+.DivPanelData a{	
+	border: 0px solid #000000; 	
+	color: #000000;
+}
+.DivPanelData a:hover{		
+	border-radius: 5px;	
+	color: #A52A2A;
+}
+.DivPanelData td #LinkEdita{
+	background-image: url('../img/16x16/user_edit.png');
+	background-repeat: no-repeat;
+	padding: 0px 0px 0px 20px;
+}
+.DivPanelData td #LinkBorra{	
+	background-image: url('../img/16x16/user_delete.png');
+	background-repeat: no-repeat;
+	padding: 0px 0px 0px 20px;
+}
+/*#nomcol,#direcol{
+	text-transform: uppercase;
+}*/
+/*************************************************************************************************/
+.DivGeneral2{	/*AGREGAR*/
+	width: auto;/*ANCHO*/
+    height: auto;/*ALTO*/ 
+    position: absolute;
+	text-align: center;
+    left: 50%;
+    top: 25%;
+    margin: -11% 0px 0px -10%;
+}
+.DivGeneral2 .DivPanelData{
+	text-align: center;
+}
+/*************************************************************************************************/
+.DivGeneral3{	/*EDITAR*/
+	width: auto;/*ANCHO*/
+    height: auto;/*ALTO*/ 
+    position: absolute;
+	text-align: center;
+    left: 50%;
+    top: 25%;
+    margin: -11% 0px 0px -10%;
+}
+.DivGeneral3 .DivPanelData{
+	text-align: center;
+}
+/*************************************************************************************************/
+.DivGeneral4{ /*BORRAR*/
+	width: auto;/*ANCHO*/
+    height: auto;/*ALTO*/ 
+    position: absolute;
+	text-align: center;
+    left: 47%;
+    top: 25%;
+    margin: -11% 0px 0px -10%;
+}
+.DivGeneral4 .DivPanelData{
+	text-align: center;
+}
+/*************************************************************************************************/
+.DivGeneral5{
+	width: auto;/*ANCHO*/
+    height: auto;/*ALTO*/ 
+    position: absolute;
+	text-align: center;
+    left: 50%;
+    top: 50%;
+    margin: -11% 0px 0px -10%;
+}
+.DivGeneral5 .DivPanelData{
+	text-align: center;
+}
+/*************************************************************************************************/

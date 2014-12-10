@@ -1,0 +1,38 @@
+/*************************************************************************************************/
+body{
+	background:url("../img/img_fondo.jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.DivGeneral{
+	width: 300px;/*ANCHO*/
+	height: auto;/*ALTO*/
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin: -11% 0 0 -10%;
+}
+.DivLogo{
+	text-align: center;
+}
+.DivLogin{
+	background-color: #325E82;
+	border: 2px solid #000000;		
+    border-radius: 5px;
+    color: #FFFFFF;	
+}
+a{
+	color: #FFFFFF;
+}
+#BSubmit{
+	font-weight:bold;
+	color:black;
+	background: #FFFFFF;
+}
+.DivLogo .Logo{
+	width: 50%;
+ 	height: 50%;
+}
+/*************************************************************************************************/

@@ -1,0 +1,104 @@
+/*************************************************************************************************/
+body {
+	background:url("../img/img_fondo.jpg") no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.DivGeneral{
+	width: auto;	/*ANCHO*/
+    height: auto;	/*ALTO*/ 
+    position: absolute;
+	/*border: 1px solid #000000;    */
+
+	left: 50%;
+	top: 50%;
+	margin: -11% 0 0 -10%;	
+	/*text-align: center;*/
+	border-radius: 5px;
+}
+.DivInfoUser{
+	background-color: 	#325E82;
+	color: #FFF;	
+	/*margin-top: 0px;
+  	margin-bottom: 0px;*/
+  	/*#6495ED;*/
+
+  	border: 2px solid #000000; 
+}
+.DivInfoColegio{	
+background-color: 	#325E82;	
+	height: auto;
+	text-align: left;
+	border: 2px solid #000000; 
+	color: #FFF;	
+}
+table{
+	border-collapse:collapse;
+}
+/*.DivInfoUser,.DivInfoColegio{
+	border: 2px solid;		
+}*/
+/*#linkAtras,#linkEntra{
+	color: #000000;
+}
+#linkAtras:hover,#linkEntra:hover{
+	color: #A52A2A;
+}*/
+a{
+	color: #FFF;	
+}
+/*************************************************************************************************/
+.DivGeneral2{	/*AGREGAR*/
+	width: auto;/*ANCHO*/
+    height: auto;/*ALTO*/ 
+    position: absolute;
+	text-align: center;
+    left: 50%;
+    top: 25%;
+    margin: -11% 0px 0px -10%;
+}
+.DivGeneral2 .DivPanelData{
+	text-align: center;
+}
+/*************************************************************************************************/
+.DivGeneral3{	/*EDITAR*/
+	width: auto;/*ANCHO*/
+    height: auto;/*ALTO*/ 
+    position: absolute;
+	text-align: center;
+    left: 50%;
+    top: 25%;
+    margin: -11% 0px 0px -10%;
+}
+.DivGeneral3 .DivPanelData{
+	text-align: center;
+}
+/*************************************************************************************************/
+.DivGeneral4{ /*BORRAR*/
+	width: auto;/*ANCHO*/
+    height: auto;/*ALTO*/ 
+    position: absolute;
+	text-align: center;
+    left: 47%;
+    top: 25%;
+    margin: -11% 0px 0px -10%;
+}
+.DivGeneral4 .DivPanelData{
+	text-align: center;
+}
+/*************************************************************************************************/
+.DivGeneral5{
+	width: auto;/*ANCHO*/
+    height: auto;/*ALTO*/ 
+    position: absolute;
+	text-align: center;
+    left: 50%;
+    top: 50%;
+    margin: -11% 0px 0px -10%;
+}
+.DivGeneral5 .DivPanelData{
+	text-align: center;
+}
+/*************************************************************************************************/
